@@ -1,22 +1,28 @@
 title: "DAB - Détention Autonome Bitcoin"
-description: "Formation et capsules Bitcoin pour devenir sa propre banque"
-baseurl: ""
+description: "Démocratiser l'accès à la souveraineté financière à travers Bitcoin, en français"
 url: "https://dab-bitcoin.github.io"
+baseurl: ""
 
-# Theme
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "default"
 
-# Author
 author:
   name: "Alexandre Boudreau"
-  email: "ton-email@example.com"
+  bio: "Passionné de Bitcoin et de souveraineté financière"
+  email: "dab-bitcoin@proton.me"
 
-# Build settings
-markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-include-cache
 
-# Navigation
-header_pages:
-  - about.md
-  - formations.md
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+
+markdown: kramdown
+search: true

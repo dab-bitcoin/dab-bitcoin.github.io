@@ -1,0 +1,60 @@
+---
+---
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+/* Couleurs personnalisées Bitcoin */
+:root {
+  --bitcoin-orange: #f7931a;
+  --bitcoin-orange-dark: #e8871e;
+  --dark-gray: #1a1a1a;
+  --medium-gray: #2d2d2d;
+  --light-gray: #404040;
+}
+
+/* En-tête orange Bitcoin */
+.page__hero {
+  background: linear-gradient(135deg, var(--bitcoin-orange) 0%, var(--bitcoin-orange-dark) 100%) !important;
+  color: #000 !important;
+}
+
+.page__hero .page__title,
+.page__hero .page__lead {
+  color: #000 !important;
+  text-shadow: none !important;
+}
+
+/* Navigation */
+.greedy-nav a:hover {
+  color: var(--bitcoin-orange) !important;
+}
+
+/* Sidebar */
+.author__name {
+  color: var(--bitcoin-orange) !important;
+}
+
+/* Titres */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--bitcoin-orange) !important;
+}
+
+/* Liens */
+a {
+  color: var(--bitcoin-orange) !important;
+}
+
+a:hover {
+  color: var(--bitcoin-orange-dark) !important;
+}
+
+/* Boutons */
+.btn--primary {
+  background-color: var(--bitcoin-orange) !important;
+  color: #000 !important;
+}
+
+.btn--primary:hover {
+  background-color: var(--bitcoin-orange-dark) !important;
+}

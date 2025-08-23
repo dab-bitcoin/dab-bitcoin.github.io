@@ -7,13 +7,12 @@ header:
   overlay_color: "#f7931a"
   overlay_filter: "0"
   actions:
-   - label: "Les Capsules Bitcoin Hard Talk"
-      url: "/capsules/"
-      btn_class: "btn--primary"    
-   - label: "Découvrir les formations"
+    - label: "Découvrir les formations"
       url: "/formations/"
       btn_class: "btn--primary"
-    
+    - label: "Les Capsules Bitcoin Hard Talk"
+      url: "/capsules/"
+      btn_class: "btn--primary"
 ---
 
 ## Mission
@@ -28,7 +27,7 @@ Résumés et analyses des vidéos *Bitcoin Hard Talk* de Simon Dixon : Bitcoin, 
 
 ### Formations Bitcoin & Self-Custody
 
-Apprends ce qu’est Bitcoin, comment le sécuriser, utiliser des portefeuilles matériels (hardware wallets) et gérer tes clés privées.
+Apprends ce qu’est Bitcoin, comment le sécuriser, utiliser des portefeuilles matériels (hardware wallets) et gérer tes **clés privées**.
 
 ---
 

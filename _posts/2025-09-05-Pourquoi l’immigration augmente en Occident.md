@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Pourquoi l’immigration augmente en Occident
-date: 2025-08-23 12:00:00 -0400
+date: 2025-09-05 12:00:00 -0400
 author_profile: true
 read_time: true
 toc: true
@@ -12,7 +12,7 @@ tags:
   - Simon
   - Dixon
   - Macro
-description: "Résumé et analyse de l’épisode #94."
+description: Résumé de la présentation de Simon Dixon au Sommet musulman Bitcoin à Dallas, Texas en avril 2025
 ---
 ## Contexte
 # **Pourquoi l’immigration augmente en Occident — Et ce qui se cache derrière le récit de l’invasion musulmane**

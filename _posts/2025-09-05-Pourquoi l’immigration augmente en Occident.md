@@ -1,15 +1,16 @@
 ---
 layout: single
-title: "Bitcoin Hard Talk #94 — Résumé complet"
+title: Pourquoi l’immigration augmente en Occident
 date: 2025-08-23 12:00:00 -0400
 author_profile: true
 read_time: true
 toc: true
-toc_label: "Plan"
+toc_label: Plan
 categories:
   - hard-talk
 tags:
-  - Simon Dixon
+  - Simon
+  - Dixon
   - Macro
 description: "Résumé et analyse de l’épisode #94."
 ---

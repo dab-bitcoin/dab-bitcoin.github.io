@@ -1,11 +1,11 @@
 ---
 layout: single
 title: "Bitcoin Hard Talk #96 — Résumé Bitcoin cette semaine"
-date: 2025-09-06 12:00:00 -0400
+date: 2025-09-06 23:59:59 -0400
 author_profile: true
 read_time: true
 toc: true
-toc_label: Plan
+toc_label: "Plan"
 categories:
   - hard-talk
 tags:
@@ -13,6 +13,10 @@ tags:
   - Simon
   - Dixon
 description: "Résumé et analyse de l’épisode #96."
+redirect_from:
+  - /hard-talk/2025/09/06/bitcoin-hard-talk-096-1.html
+  - /hard-talk/2025/08/23/bitcoin-hard-talk-096-1.html
+  - /hard-talk/2025/08/23/bitcoin-hard-talk-096-1/
 ---
 ## Contexte
 # **🎙️ Guerre Civile : Bitcoin Core vs. Knots – Bitcoin Hard Talk #96**

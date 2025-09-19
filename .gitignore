@@ -1,0 +1,12 @@
+# Obsidian
+.obsidian/
+
+# macOS
+.DS_Store
+
+# Jekyll
+_site/
+.jekyll-cache/
+.sass-cache/
+.jekyll-metadata
+vendor/

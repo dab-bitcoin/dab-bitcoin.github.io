@@ -15,8 +15,9 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-include-cache
-
-defaults:
+  - jekyll-redirect-from
+  
+  defaults:
   - scope:
       path: ""
       type: posts
@@ -26,3 +27,9 @@ defaults:
 
 markdown: kramdown
 search: true
+
+permalink: /:categories/:year/:month/:day/:title/
+
+kramdown:
+  input: GFM
+  

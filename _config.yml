@@ -1,10 +1,13 @@
-title: "DAB - Détention Autonome Bitcoin"
+title: "DAB – Détention Autonome Bitcoin"
 description: "Démocratiser l'accès à la souveraineté financière à travers Bitcoin, en français"
 url: "https://dab-bitcoin.github.io"
-baseurl: ""
+baseurl: ""  # important: vide pour GitHub Pages user/organization
 
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "dark"
+
+locale: fr
+timezone: America/Toronto
 
 author:
   name: "Alexandre Boudreau"
@@ -16,20 +19,19 @@ plugins:
   - jekyll-sitemap
   - jekyll-include-cache
   - jekyll-redirect-from
-  
-  defaults:
+
+permalink: /:categories/:year/:month/:day/:title/
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+search: true
+
+defaults:
   - scope:
       path: ""
       type: posts
     values:
       layout: single
       author_profile: true
-
-markdown: kramdown
-search: true
-
-permalink: /:categories/:year/:month/:day/:title/
-
-kramdown:
-  input: GFM
-  

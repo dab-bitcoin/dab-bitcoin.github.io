@@ -85,7 +85,7 @@ description: "Résumé et analyse de l’épisode #98."
         
     - Le dollar, tout comme l’Amérique, devient une _shitcoin_ : valeur artificielle, instable, contrôlée par des intérêts privés globaux.
 ## Analyse
-### **🔍** ### **Que dit la vidéo à propos de la façon dont la dominance fiscale redéfinit l’économie américaine dans un contexte de déclin du dollar ?**
+### **🔍** **Que dit la vidéo à propos de la façon dont la dominance fiscale redéfinit l’économie américaine dans un contexte de déclin du dollar ?**
 
   
 
@@ -93,11 +93,7 @@ La vidéo propose une analyse critique et percutante du concept de **fiscal domi
 
 ---
 
-## **🏛️ La** 
-
-## **fiscal dominance**
-
-##  **: Un changement radical de paradigme**
+## **🏛️ La** **fiscal dominance** **: Un changement radical de paradigme**
 
 - **Définition** : La “fiscal dominance” signifie que les décisions budgétaires (dépenses publiques, déficit, dette) dictent désormais la politique monétaire. Autrement dit, **la Fed n’est plus en contrôle**, elle sert simplement à financer le besoin de liquidité de l’État.
     
@@ -154,7 +150,7 @@ La vidéo propose une analyse critique et percutante du concept de **fiscal domi
     
 
 ---
-### **🤖** ### **Que dit la vidéo à propos du rôle exact de l’intelligence artificielle dans la stratégie économique et monétaire actuelle ?**
+### **🤖** **Que dit la vidéo à propos du rôle exact de l’intelligence artificielle dans la stratégie économique et monétaire actuelle ?**
 
   
 
@@ -162,9 +158,7 @@ La vidéo développe une vision très critique et nuancée de l’intégration d
 
 ---
 
-## **🧩 L’IA comme outil de** 
-
-## **désinflation artificielle**
+## **🧩 L’IA comme outil de** **désinflation artificielle**
 
 - **Problème de fond :** L’inflation est structurellement élevée et incontrôlable via les outils classiques de politique monétaire.
     
@@ -214,7 +208,7 @@ La vidéo développe une vision très critique et nuancée de l’intégration d
     
 
 ---
-### **🇪🇺** ### **Que dit la vidéo à propos du rôle de l’Europe comme principale victime énergétique du Proof of Weapons Network ?**
+### **🇪🇺** **Que dit la vidéo à propos du rôle de l’Europe comme principale victime énergétique du Proof of Weapons Network ?**
 
   
 

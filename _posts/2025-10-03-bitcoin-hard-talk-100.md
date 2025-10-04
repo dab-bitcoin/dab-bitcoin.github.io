@@ -391,3 +391,4 @@ Derriere les discours, la paix au Moyen-Orient devient un **outil de réorganisa
 Comprendre cela, c’est dépasser les apparences et éclairer les vrais enjeux derrière les négociations, les guerres et les plans de paix mis en scène.
 
 ---
+[Lien de la vidéo](https://www.youtube.com/live/pDPVBSEqT6E?si=P5-Q0ZzWy7Kabv90)

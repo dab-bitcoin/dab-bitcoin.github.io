@@ -1,17 +1,33 @@
 ---
-layout: post
-title: "WEF 2026 HardTalk - Partie 2 : Le Système de Compromission et l'Asset Stripping de l'Occident"
-date: 2026-01-28
-categories: [Bitcoin, Macro, Géopolitique]
-tags: [WEF, Mark Carney, OTAN, Asset Stripping, Europe, Ukraine, Elon Musk, Compromission, Simon Dixon]
+layout: single
+title: "WEF 2026 : Suivez l'Argent — Partie 2 : Le Système de Compromission et l'Asset Stripping"
+date: 2026-01-28 12:00:00 -0400
+author_profile: true
+read_time: true
+toc: true
+toc_label: Plan
+categories:
+  - hard-talk
+tags:
+  - WEF
+  - Mark Carney
+  - OTAN
+  - Asset Stripping
+  - Europe
+  - Ukraine
+  - Elon Musk
+  - Compromission
+  - Simon Dixon
 description: "Deuxième partie du résumé éducatif du Bitcoin HardTalk sur le WEF 2026. Comment fonctionne le système de compromission des élites, la stratégie 'diviser pour régner', et le démantèlement systématique des actifs occidentaux."
 ---
 
-# WEF 2026 HardTalk - Partie 2
+# WEF 2026 : Suivez l'Argent, Pas les Discours
 
-## Le Système de Compromission et l'Asset Stripping de l'Occident
+**Résumé Éducatif Approfondi de Bitcoin HardTalk avec Simon Dixon | 23 janvier 2026**
 
-*Résumé éducatif basé sur l'analyse de Simon Dixon - Bitcoin HardTalk (3h29)*
+*Partie 2 sur 5 — Le Système de Compromission et l'Asset Stripping de l'Occident*
+
+---
 
 > **Note** : Ce document est un résumé éducatif des analyses présentées par Simon Dixon. Il vise à rendre accessibles des concepts macroéconomiques et géopolitiques complexes. Les opinions exprimées sont celles de l'analyste original.
 
@@ -321,13 +337,19 @@ Simon Dixon révèle comment les tarifs de Trump servent un objectif caché :
 
 ---
 
-## Navigation
-
-- **[← Partie 1 : Larry Fink et les Trois Complexes](/2026/01/24/wef-2026-hardtalk-partie-1.html)**
-- **Partie 3 : Gaza et le Reset du Moyen-Orient** *(à venir)*
-- **Partie 4 : Bitcoin - La Solution de Sortie** *(à venir)*
+*À suivre dans la Partie 3 : Gaza et le Reset du Moyen-Orient*
 
 ---
 
-*Résumé éducatif préparé par Alexandre Boudreau avec Claude Code*
-*Source : Bitcoin HardTalk - WEF 2026 Analysis (3h29min)*
+## Source
+
+**Vidéo** : [WEF 2026: Follow the Money, Not the Speeches | SimonDixonHardTalk LIVE](https://www.youtube.com/watch?v=XYZ)  
+**Présentateur** : Simon Dixon  
+**Durée** : 3h29  
+**Date** : 23 janvier 2026
+
+---
+
+*Ce résumé est fourni à des fins éducatives. Il représente l'analyse et les opinions de Simon Dixon, pas des faits établis. L'auteur encourage les lecteurs à faire leurs propres recherches (DYOR - Do Your Own Research) et à développer leur propre pensée critique.*
+
+*Les informations financières présentées ne constituent pas des conseils en investissement. Consultez un professionnel qualifié avant toute décision financière.*

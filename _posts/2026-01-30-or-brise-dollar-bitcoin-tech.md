@@ -1,10 +1,14 @@
 ---
 layout: single
 title: "L'Or Vient de Briser le Dollar : Bitcoin et Technologie"
-date: 2026-01-30
+date: 2026-01-30 12:00:00 -0400
+author_profile: true
+read_time: true
+toc: true
+toc_label: Sommaire
+toc_sticky: true
 categories:
-  - Bitcoin
-  - Analyse
+  - hard-talk
 tags:
   - Bitcoin
   - Tether
@@ -12,16 +16,14 @@ tags:
   - Or
   - Fed
   - Simon Dixon
-excerpt: "L'or a officiellement dépassé les bons du Trésor américain comme actif de réserve mondial. Analyse des implications pour Bitcoin, les stablecoins et l'état de surveillance."
-header:
-  overlay_color: "#1a1a2e"
-  overlay_filter: "0.7"
-toc: true
-toc_label: "Sommaire"
-toc_sticky: true
+description: "L'or a officiellement dépassé les bons du Trésor américain comme actif de réserve mondial. Analyse des implications pour Bitcoin, les stablecoins et l'état de surveillance."
 ---
 
+# L'Or Vient de Briser le Dollar : Bitcoin et Technologie
+
 **Résumé Éducatif du Bitcoin HardTalk avec Simon Dixon | 30 janvier 2026**
+
+*Partie 1 sur 3 — Les autres parties seront publiées graduellement.*
 
 ---
 
@@ -115,7 +117,7 @@ C'est exactement ce qui s'est passé avec Bitcoin - les gens ont réalisé que l
 ### Pourquoi Bitcoin est Différent des Stablecoins
 
 | Caractéristique | Stablecoins (USDT, XAUT) | Bitcoin |
-|-----------------|--------------------------|--------|
+|-----------------|--------------------------|---------|
 | Garde | Centralisée (confiance requise) | Auto-garde possible |
 | Censure | Fonction de gel possible | Résistant à la censure |
 | Contrepartie | Risque de contrepartie | Aucun risque de contrepartie |
@@ -255,7 +257,7 @@ Trump a annoncé que **Kevin Walsh** remplacera Jerome Powell en mai 2026.
 ### Impact Attendu
 
 | Élément | Direction |
-|---------|----------|
+|---------|-----------|
 | Dette nationale | Augmentation |
 | Taux court terme | Baisse |
 | Taux long terme | Hausse |
@@ -309,9 +311,11 @@ Trump a annoncé que **Kevin Walsh** remplacera Jerome Powell en mai 2026.
 
 ---
 
-**Source** : Bitcoin HardTalk Live - 30 janvier 2026
+## Source
+
+**Vidéo** : [Gold Just Broke the Dollar — The New World Order Has Begun](https://www.youtube.com/watch?v=ChFJCv4wU0w)
 **Présentateur** : Simon Dixon
-**Partie** : 1 sur 3 (Bitcoin et Technologie)
+**Date** : 30 janvier 2026
 
 ---
 

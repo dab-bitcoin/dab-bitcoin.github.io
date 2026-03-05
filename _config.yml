@@ -8,6 +8,7 @@ minimal_mistakes_skin: "dark"
 
 locale: fr
 timezone: America/Toronto
+future: true
 
 author:
   name: "Alexandre Boudreau"

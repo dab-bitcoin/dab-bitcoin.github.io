@@ -58,3 +58,29 @@ a:hover {
 .btn--primary:hover {
   background-color: var(--bitcoin-orange-dark) !important;
 }
+
+/* ─── Acronymes / Abréviations ─── */
+abbr {
+  color: var(--bitcoin-orange) !important;
+  text-decoration: none;
+  border-bottom: 1px dotted var(--bitcoin-orange);
+  cursor: help;
+  font-weight: 600;
+  transition: color 0.2s, border-color 0.2s;
+}
+
+abbr:hover {
+  color: var(--bitcoin-orange-dark) !important;
+  border-bottom-color: var(--bitcoin-orange-dark);
+}
+
+a > abbr {
+  cursor: pointer;
+}
+
+/* Glossaire */
+.glossaire-table td:first-child {
+  color: var(--bitcoin-orange);
+  font-weight: 700;
+  white-space: nowrap;
+}

@@ -108,7 +108,7 @@ Selon Dixon, les pays du Golfe — Arabie Saoudite, EAU, Qatar — ont compris q
 ### La Stratégie de Chaque Acteur du Golfe
 
 | Pays | Rôle assigné | Stratégie |
-|------|-------------|----------|
+|------|-------------|-----------|
 | **EAU** | Normalisation avec Israël | Prend le "dommage réputationnel" en échange d'accès économique |
 | **Arabie Saoudite** | Le "bon acteur" | Garde son image pro-palestinienne publiquement |
 | **Qatar** | L'investisseur européen | Crée la dépendance énergétique de l'UE au GNL |
@@ -123,7 +123,7 @@ Selon Dixon, les pays du Golfe — Arabie Saoudite, EAU, Qatar — ont compris q
 Dixon insiste : comprendre l'Iran nécessite de comprendre qu'il existe **deux centres de pouvoir** distincts :
 
 | Faction | Orientation | Position sur le nucléaire |
-|---------|------------|---------------------------|
+|---------|------------|--------------------------|
 | **IRGC (Gardiens de la Révolution)** | Militariste, anti-Occident | Veulent le programme nucléaire comme levier |
 | **Faction réformiste** | Pro-commerce, pragmatique | Ont négocié le JCPOA |
 
@@ -268,7 +268,7 @@ Dixon fait le lien entre BTC et la résistance au système :
 ## Chronologie des Événements Clés
 
 | Date / Période | Événement |
-|---------------|----------|
+|---------------|-----------|
 | **2020** | Assassinat de Qassem Soleimani par Trump |
 | **2020-2024** | Accords d'Abraham, normalisation EAU-Israël |
 | **Octobre 2023** | Attaque du 7 octobre — Netanyahu pointé du doigt |
@@ -339,3 +339,25 @@ Le conflit au Moyen-Orient n'est pas ce qu'il semble être. C'est le théâtre d
 *[IA]: Intelligence Artificielle
 *[IRGC]: Islamic Revolutionary Guard Corps — Gardiens de la Révolution islamique
 *[JCPOA]: Joint Comprehensive Plan of Action — Accord nucléaire iranien de 2015
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var defined = {
+    'BRICS': 'gl-brics', 'BTC': 'gl-btc', 'CBDC': 'gl-cbdc',
+    'CCG': 'gl-ccg', 'DCA': 'gl-dca', 'EAU': 'gl-eau',
+    'ETF': 'gl-etf', 'FMI': 'gl-fmi', 'GNL': 'gl-gnl',
+    'IA': 'gl-ia', 'IRGC': 'gl-irgc', 'JCPOA': 'gl-jcpoa'
+  };
+  document.querySelectorAll('abbr').forEach(function (el) {
+    var key = el.textContent.trim();
+    if (defined[key] && (!el.parentElement || el.parentElement.tagName !== 'A')) {
+      var a = document.createElement('a');
+      a.href = '#' + defined[key];
+      a.style.textDecoration = 'none';
+      a.style.color = 'inherit';
+      el.parentNode.insertBefore(a, el);
+      a.appendChild(el);
+    }
+  });
+});
+</script>

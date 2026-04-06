@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "La Grande Réinitialisation Mondiale et les Marchés Financiers — Simon Dixon Hard Talk Live | Partie 1"
+title: "La Grande Réinitialisation Mondiale et les Marchés Financiers"
 date: 2026-04-04 12:00:00 -0400
 author_profile: true
 read_time: true
@@ -25,7 +25,9 @@ tags:
 description: "Partie 1 de 3 — Résumé éducatif du Simon Dixon Hard Talk Live d'avril 2026. Analyse des dynamiques de marché, seuils critiques (pétrole, Treasury, dette), reset global et transition multipolaire."
 ---
 
-# La Grande Réinitialisation Mondiale et les Marchés Financiers — Ce Que Simon Dixon Nous Révèle | Partie 1
+# La Grande Réinitialisation Mondiale et les Marchés Financiers
+
+**Ce Que Simon Dixon Nous Révèle | Partie 1**
 
 **Résumé Éducatif du Simon Dixon Hard Talk Live | Avril 2026**
 
